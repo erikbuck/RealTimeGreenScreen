@@ -8,13 +8,16 @@ Wish you could use the green-screen effects from movies and TV shows with your i
 
 Figure 1 Sample green-screen effect.
 
+
 ![Image of Figure2](http://ptgmedia.pearsoncmg.com/images/art_buck_iosgreenscreen/elementLinks/buck1_fig02.jpg)
 
 Figure 2 Images are composed of pixels with red, green, and blue elements.
 
+
 ![Image of Figure3](http://ptgmedia.pearsoncmg.com/images/art_buck_iosgreenscreen/elementLinks/buck1_fig03.jpg)
 
 Figure 3 There's an elephant outside the window.
+
 
 ![Image of Figure4](http://ptgmedia.pearsoncmg.com/images/art_buck_iosgreenscreen/elementLinks/buck1_fig04.jpg)
 
